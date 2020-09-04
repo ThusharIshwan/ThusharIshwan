@@ -10,7 +10,7 @@ I am a Third Year Student at the University of Waterloo Faculty of Mathematics, 
 
 When I am not working on my schoolwork, I spend my time coding, usually in the form of creating games. The languages that I am familiar with are Python (Pandas and Tensorflow mainly), R, Java, C++ and most predominantly C# within Unity's Engine.
 
-- 🔭 I am currently working on a few projects for my games, including communicating between CSV's and Unity, Making simple concepts for game ideas that I have and abstracting the process of creating the tools I need to make games.
+- 🔭 I am currently working on a few projects, including communicating between CSV's and Unity, Making simple concepts for game ideas that I have and abstracting the process of creating the tools I need to make games.
 
 - 🌱 I am currently expanding my knowledge of the features within Unity (such as NavMeshAgent's and the Animation Interface). Outside of unity, I am also learing the basics of Artificial Intelligence.
 
