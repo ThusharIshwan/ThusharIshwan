@@ -6,7 +6,7 @@
 
 My name is Thushar Ishwanthlal.
 
-I am a Third Year Student at the University of Waterloo Faculty of Mathematics, Currently Undecided in Major. Certain courses that make up my studies include Combinatorics and Optimization, Game Theory, Econometrics and Differential Equations.
+I am a Third Year Student at the University of Waterloo Faculty of Mathematics, with a major in Mathematical Economics. Certain courses that make up my studies include Combinatorics and Optimization, Game Theory, Econometrics and Differential Equations.
 
 When I am not working on my schoolwork, I spend my time coding, usually in the form of creating games. The languages that I am familiar with are Python (Pandas and Tensorflow mainly), R, Java, C++ and most predominantly C# within Unity's Engine.
 
